@@ -1,2 +1,5 @@
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "My New Hugo Site"
+
+[params.utteranc]
+repo = 'lVlelior/eighth-street'
